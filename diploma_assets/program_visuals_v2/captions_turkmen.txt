@@ -1,0 +1,6 @@
+Surat 1 - Programma arhitekturasynyň gatlaklaýyn görnüşi.
+Surat 2 - Skanirleme algoritminiň giňeldilen wizual akymy.
+Surat 3 - Lokal torda gurluşlaryň wizual kartalaşdyrylyşy.
+Surat 4 - Taslamada ulanylan tehnologiýalaryň wizual toplumy.
+Surat 5 - Netijeleriň maglumat bazasyndan sahypalara paýlanyşy.
+Surat 6 - Töwekgelçiligiň pluginler arkaly bahalandyrylyşy.

@@ -1,0 +1,6 @@
+Surat 1 - Programma arhitekturasy: UI, Scanner Core, Plugins, SQLite we PDF hasabatlarynyň baglanyşygy.
+Surat 2 - Skanirleme algoritmi: adapter saýlamakdan hasabat taýýarlamaga çenli iş akymy.
+Surat 3 - Lokal toruň skanirlenişi: programma router, telefon, PC we IoT gurluşlaryny tapýar.
+Surat 4 - Ulanylan tehnologiýalar: Python, PyQt6, Nmap, SQLite, ReportLab, Paramiko we PyInstaller.
+Surat 5 - Maglumat akymy: skanirleme netijeleri SQLite bazasyndan Panel, Netijeler, Taryh we PDF hasabata geçýär.
+Surat 6 - Töwekgelçilik we maslahat: pes, orta we ýokary risk derejeleri boýunça howpsuzlyk maslahatlary.

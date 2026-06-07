@@ -1,0 +1,63 @@
+/* фон и шрифты */
+QWidget { background: #FFFFFF; color: #111111; font-family: "Segoe UI", Roboto, Arial; }
+
+/* заголовок */
+QLabel#bigTitle { font-size: 48px; font-weight: 700; color: #111111; }
+QLabel#subtitle { font-size: 16px; color: #555555; }
+
+/* левая навигация */
+#navFrame {
+    background: #FAFAFA;
+    border-right: 1px solid #ECECEC;
+}
+QListWidget {
+    background: transparent;
+    border: none;
+    padding-left: 12px;
+    font-size: 18px;
+    color: #222222;
+}
+QListWidget::item { padding: 12px 8px; }
+QListWidget::item:selected { background: #E5F3FF; color: #0078D4; border-radius: 4px; }
+
+/* карта/панель */
+QFrame#card {
+    background: transparent;
+    border: none;
+}
+
+/* кнопки */
+QPushButton#primary {
+    background: #0078D4;
+    color: white;
+    border: none;
+    padding: 14px 26px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+QPushButton#primary:hover { background: #036cd1; }
+QPushButton#primary:disabled { background: #CCCCCC; }
+
+/* иконка настроек в шапке */
+QPushButton#iconBtn {
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    color: #333333;
+}
+
+/* таблица */
+QTableWidget {
+    border: 1px solid #ECECEC;
+    gridline-color: #ECECEC;
+}
+QTableWidget::item { padding: 8px; }
+
+/* фильтр */
+QComboBox {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ECECEC;
+    border-radius: 4px;
+}
+QComboBox::drop-down { border: none; }
